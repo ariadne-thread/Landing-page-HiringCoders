@@ -21,3 +21,5 @@ Deliverables:
 - Data in localstorage;
 
 - Hosting on Netlify.
+
+URL: https://ariadnethread-landingpage-hc.netlify.app
